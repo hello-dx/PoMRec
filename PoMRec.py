@@ -1,9 +1,7 @@
 # -*- coding: UTF-8 -*-
-# @Author  : Chenyang Wang
-# @Email   : THUwangcy@gmail.com
 
 """ PoMRec
-    python3 main.py --model_name PoMRec --dataset ml-1m --lr 0.001 --K 2 --lamb 1
+    python3 main.py --model_name PoMRec --dataset ml-1m --lr 0.001
 """
 
 import os
