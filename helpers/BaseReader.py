@@ -13,7 +13,7 @@ from utils import utils
 class BaseReader(object):
     @staticmethod
     def parse_data_args(parser):
-        parser.add_argument('--path', type=str, default='/mnt/newdata/dongxue/pomrec/',
+        parser.add_argument('--path', type=str, default='./data/',
                             help='Input data dir.')
         parser.add_argument('--dataset', type=str, default='ml-1m',
                             help='Choose a dataset.')
