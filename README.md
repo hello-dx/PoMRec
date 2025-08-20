@@ -4,4 +4,6 @@ pytorch implementation for Xue Dong; Xuemeng Song; Tongliang Liu; Weili Guan: Pr
 
 Use python main.py --model_name PoMRec --dataset ml-1m to train the model.
 
+Download data from: [data](https://drive.google.com/drive/folders/1gvPhr2Rg7whu5_XduT1rb4I7aGxkIiOt?usp=drive_link).
+
 Acknowledegment: [TiMiRec](https://github.com/THUwangcy/ReChorus/tree/CIKM22). 
